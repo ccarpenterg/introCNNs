@@ -1,1 +1,3 @@
-# introCNNs
+Introduction to Convolutional Neural Networks
+=============================================
+
